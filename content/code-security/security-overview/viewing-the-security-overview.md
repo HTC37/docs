@@ -1,5 +1,5 @@
 ---
-title: Viewing the security overview
+title: Viewing security overviews
 intro: Navigate to the different views available in the security overview
 permissions: '{% data reusables.security-overview.permissions %}'
 product: '{% data reusables.gated-features.security-overview %}'
@@ -15,7 +15,7 @@ topics:
   - Alerts
   - Organizations
   - Teams
-shortTitle: View the security overview
+shortTitle: View security overviews
 ---
 
 {% ifversion ghes < 3.5 or ghae %}
@@ -24,7 +24,7 @@ shortTitle: View the security overview
 
 {% data reusables.security-overview.information-varies-GHAS %}
 
-## Viewing the security overview for an organization
+## Viewing the security overviews for an organization
 
 {% data reusables.security-overview.beta-org-risk-coverage %}
 
@@ -51,7 +51,7 @@ shortTitle: View the security overview
 {% endif %}
 
 {% ifversion ghec or ghes > 3.4 or ghae > 3.4 %}
-## Viewing the security overview for an enterprise
+## Viewing the security overviews for an enterprise
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 1. In the left sidebar, click {% octicon "shield" aria-label="The shield icon" %} **Code Security**.
