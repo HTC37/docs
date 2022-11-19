@@ -14,16 +14,16 @@ versions:
   ghec: '*'
 topics:
   - Repositories
-ms.openlocfilehash: 7a18ed7051b0babdb5408821ce44a728968869d5
-ms.sourcegitcommit: f638d569cd4f0dd6d0fb967818267992c0499110
+ms.openlocfilehash: 146f1a33eb4de224625b9603b27d2f383e55c54d
+ms.sourcegitcommit: c2aa10a61db44ee111c09565b6114dd5c97b6e2e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2022
-ms.locfileid: '148108763'
+ms.lasthandoff: 11/14/2022
+ms.locfileid: '148163334'
 ---
 ## 关于自述文件
 
-您可以将 README 文件添加到仓库来交流有关您项目的重要信息。 自述文件以及存储库许可证、引文文件{% ifversion fpt or ghec %}、贡献指南、行为准则{% elsif ghes %}以及贡献指南{% endif %}传达了对项目的期望，并有助于管理贡献。
+{% data reusables.repositories.about-READMEs %}
 
 有关为项目提供指南的详细信息，请参阅{% ifversion fpt or ghec %}“[为项目添加行为准则](/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)”和{% endif %}“[设置健康贡献的项目](/communities/setting-up-your-project-for-healthy-contributions)”。
 

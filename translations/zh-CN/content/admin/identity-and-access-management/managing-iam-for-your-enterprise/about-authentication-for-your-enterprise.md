@@ -13,12 +13,12 @@ topics:
   - Enterprise
   - Identity
   - SSO
-ms.openlocfilehash: 9931a13150ff98d7ab113d37df9622b43367fa1b
-ms.sourcegitcommit: f638d569cd4f0dd6d0fb967818267992c0499110
+ms.openlocfilehash: 16b5bdd98e37db2eef6fe7e4e02da1a4ce8fd406
+ms.sourcegitcommit: 34d500fe45b362043b4b4685d6705a7bfb484d11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2022
-ms.locfileid: '148107019'
+ms.lasthandoff: 11/15/2022
+ms.locfileid: '148164370'
 ---
 ## 关于企业身份验证
 
@@ -26,7 +26,7 @@ ms.locfileid: '148107019'
 
 {% data variables.product.product_name %} 上的企业所有者可以控制对企业资源的身份验证和访问权限的要求。 
 
-可以选择允许成员创建和管理用户帐户，或者企业可以使用 {% data variables.product.prodname_emus %} 为成员创建和管理帐户。 如果你允许成员管理自己的帐户，还可以配置 SAML 身份验证，以提高团队使用的 Web 应用程序的安全性并集中管理标识和访问权限。
+{% data reusables.enterprise.ghec-authentication-options %}
 
 详细了解这些选项后，要确定哪种方法最适合企业，请参阅“[确定企业的最佳身份验证方法](#identifying-the-best-authentication-method-for-your-enterprise)”。
 
